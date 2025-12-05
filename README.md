@@ -1,6 +1,7 @@
-<!-- Typing animation header -->
+
+<!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sudesh+👋;IT+Engineering+Student+%7C+Web+Dev+%7C+ML+Enthusiast;Learning+Japanese+%E6%97%A5%E6%9C%AC%E8%AA%9E+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Sudesh+Bansode;" alt="Typing SVG" />
 </p>
 
 ---
@@ -81,9 +82,3 @@
 
 ---
 
-<div align="center">
-
-👁️ Profile Views  
-![Views](https://komarev.com/ghpvc/?username=sudesh2005&style=for-the-badge&color=blueviolet)
-
-</div>
