@@ -5,9 +5,7 @@
 </p>
 
 ---
-
-# 👋 Hi, I'm Sudesh
-
+<!-- # 👋 Hi, I'm Sudesh -->
 💻 IT Engineering student passionate about Web Development & Machine Learning  
 🌏 Exploring technology, creating impactful solutions, and constantly leveling up  
 🇯🇵 日本語を勉強しています。(I'm learning Japanese!)
